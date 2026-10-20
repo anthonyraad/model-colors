@@ -1,0 +1,11 @@
+node_modules
+out
+dist
+*.log
+.DS_Store
+host/**/bin/
+host/**/obj/
+host/publish/
+splash/**/bin/
+splash/**/obj/
+splash/publish/
